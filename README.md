@@ -20,7 +20,7 @@ Web application pokedex aka the pokemon encyclopedia.
 
 # I'm currently learning 🎓
 
-[Machine Learning](https://mkang.faculty.unlv.edu/index.php?menu=CS422_622)
+[Introduction to Machine Learning](https://mkang.faculty.unlv.edu/index.php?menu=CS422_622)
 
 [SQL](https://codewithmosh.com/p/complete-sql-mastery)
 
