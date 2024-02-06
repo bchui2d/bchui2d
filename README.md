@@ -5,6 +5,8 @@ Here you will find my related coursework and personal projects.
 
 I look forward to future projects and making new connections.
 
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+
 # Toolbox 🧰
 [![My Skills](https://skillicons.dev/icons?i=cpp,js,ts,react,html,css,swift&theme=dark)](https://skillicons.dev)
 
