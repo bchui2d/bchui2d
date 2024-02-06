@@ -13,6 +13,7 @@ I look forward to future projects and making new connections.
 
 # I'm currently working on 🔨
 Web application pokedex aka the pokemon encyclopedia.
+Built with: React 18 + Typescript, Vite, and ChakraUI
 
 [![pokedex](https://github.com/bchui2d/pokedex/blob/main/src/assets/preview.gif.gif)](https://github.com/bchui2d/pokedex)
 
